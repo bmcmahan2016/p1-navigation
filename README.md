@@ -33,6 +33,6 @@ The following instructions detail how to set up the environment and are provided
 ### Instructions for Training an Agent
 
 The code for training an agent is contained in `DQN_Navigation_Banana.ipynb`. 
-Running this notebook will allow you to train an Agent in this environment using Deep Q-learning or load a pretrained agent.
+Running this notebook will allow you to train an Agent in this environment using Deep Q-learning or load a pretrained agent (whose weights are contained in model.pt).
 
 After training, you will be able to visualize the agents performance in real time and see the agent's score (how many yellow bananas minus how many blue bananas the agent collects). If loading the pretrained model, the score should be approximately 17.
